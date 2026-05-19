@@ -1,0 +1,10 @@
+pymupdf
+pdfplumber
+pandas
+opencv-python
+imagehash
+scikit-image
+pillow
+openpyxl
+openai>=1.0.0
+python-docx
